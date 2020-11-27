@@ -1,6 +1,11 @@
 <template>
   <div class="hello">
-    <h1 class="text-3xl text-blue-200 border-4 border-red-500 inline-block mx-auto p-5">{{ msg }}</h1>
+    <h1 class=" text-gray-500 my-3 text-center">{{ msg }}</h1>
+    <h2 class="text-gray-500 my-3 text-center">h2文字</h2>
+    <h3 class="text-gray-500 my-3 text-center">h3文字</h3>
+    <h4 class="text-gray-500 my-3 text-center">h4文字</h4>
+    <h5 class="text-gray-500 my-3 text-center">h5文字</h5>
+    <p class="text-gray-500 my-3 text-center">p文字</p>
   </div>
 </template>
 

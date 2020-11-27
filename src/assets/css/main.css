@@ -2,3 +2,32 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base {
+    html {
+        font-size: 16px;
+    }
+
+    h1 {
+        @apply 2xl:text-6xl lg:text-5xl md:text-4xl text-3xl;
+    }
+
+    h2 {
+         @apply 2xl:text-5xl lg:text-4xl md:text-3xl text-2xl;
+    }
+
+    h3 {
+        @apply 2xl:text-4xl lg:text-3xl text-2xl;
+    }
+
+    h4 {
+        @apply 2xl:text-3xl text-2xl;
+    }
+
+    h5 {
+        @apply 2xl:text-2xl text-xl;
+    }
+
+    p,span,a {
+        @apply text-lg;
+    }
+}

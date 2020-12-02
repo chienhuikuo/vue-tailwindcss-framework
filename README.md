@@ -1,4 +1,4 @@
-# Vue + tailwindcss module
+# Vue + tailwindcss framework
 
 A Vue.js project is based on Vue-cli with tailwindcss, sass, jquery  
 Vue.js專案模板，可使用tailwindcss、sass及jquery
@@ -16,6 +16,7 @@ Vue.js專案模板，可使用tailwindcss、sass及jquery
 - vue@^2.5.2
 - vue-router@^3.0.1
 - jquery@^3.5.1
+- tailwindcss-filters@3.0.0
 
 
 ## Build Setup

@@ -1,7 +1,7 @@
 # Vue + tailwindcss framework
 
-A Vue.js project is based on Vue-cli with tailwindcss, sass, jquery  
-Vue.js專案模板，可使用tailwindcss、sass及jquery
+A Vue.js project is based on Vue-cli with tailwindcss, sass, jquery 🎉  
+Vue.js專案模板，可使用tailwindcss、sass及jquery 🎉
 
 ## Requirements
 - node >= v12.18.3  
@@ -38,6 +38,6 @@ npm run build --report
 npm run tailwindcss
 ```
 
-- tailwindcss 沒有hot reload，改了css要再編譯一次
-- main.css import tailwindcss will output to main-output.css by `npm run tailwindcss`
-- 執行`npm run dev`可即時編譯sass
+- 📌 tailwindcss 沒有hot reload，改了css要再編譯一次
+- 📌 main.css import tailwindcss will output to main-output.css by `npm run tailwindcss`
+- 📌 執行`npm run dev`可即時編譯sass
